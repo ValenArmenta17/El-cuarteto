@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/El-cuarteto/static/css/main.aa0ab5d7.css",
+    "main.js": "/El-cuarteto/static/js/main.c297c890.js",
+    "static/js/787.049af460.chunk.js": "/El-cuarteto/static/js/787.049af460.chunk.js",
+    "static/media/imagen.jpg": "/El-cuarteto/static/media/imagen.f70895b4886b3b97cb3b.jpg",
+    "index.html": "/El-cuarteto/index.html",
+    "main.aa0ab5d7.css.map": "/El-cuarteto/static/css/main.aa0ab5d7.css.map",
+    "main.c297c890.js.map": "/El-cuarteto/static/js/main.c297c890.js.map",
+    "787.049af460.chunk.js.map": "/El-cuarteto/static/js/787.049af460.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0ab5d7.css",
+    "static/js/main.c297c890.js"
+  ]
+}
